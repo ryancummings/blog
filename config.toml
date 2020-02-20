@@ -3,7 +3,12 @@ languageCode = "en-us"
 title = "RC"
 theme = "hyde-hyde"
 googleAnalytics = "UA-124665888-1"
- 
+builddrafts = false
+paginate = 10
+
+[indexes]
+    # Optional. Use if you want tags and lists.
+    category = "categories"
 ## Site Settings
 [params]
     author = "Ryan Cummings"
