@@ -19,6 +19,10 @@ paginate = 10
     licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
     showBuiltWith = true
 
+    relatedPosts = true
+    enableRobotsTXT = true
+    enableEmoji = true
+ 
     highlightjs = true
     highlightjsstyle = "zenburn"
     highlightjslanguages = ["cmake", "lisp", "elisp"]
