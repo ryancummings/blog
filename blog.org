@@ -108,7 +108,19 @@ I took Step 2 CS back in October 2019, and (after a very stressful waiting perio
 - Recent illnesses
 - Change in meds
 - Pain anywhere else
+** Personal                                                      :@personal:
+*** DONE new blog who this?                                          :meta:
+CLOSED: [2020-02-20 Thu 16:12]
+:PROPERTIES:
+:EXPORT_FILE_NAME: new-blog-who-this
+:END:
+I had a blog a while ago. It died when I didn't update it and made life more complicated than I had to. The blog was written using a piece of software called Emacs, which is a decades-old text editor. A plugin called ox-hugo converted my Emacs files into markdown files that another piece of software called Hugo converted into a navigable blog. Images were a monster to handle, and I ended up writing some custom code to get them from my computer to the site. The whole thing was hosted on Github and linked to a domain that I bought.
 
+It was a mess! It's no wonder that I gave up.
+
+But now that I am a 4th year medical student, I figure that I'll fire it back up! I love writing and have so many things to write about, from AI and deep learning to medical education to philosophy, not to mention all of the miscelaneous programming projects I've been up to over the past few years. This blog may not see any traffic at all (and that may be for the best), but I think it'll be worth having nonetheless.
+
+So welcome to my new blog! Take a look around and check out my social links on the left sidebar. Don't be afraid to email me -- I love getting letters. I hope you get something out of this site!
 * COMMENT Local Variables :ARCHIVE:
 # Local Variables:
 # eval: (setq org-export-initial-scope 'subtree)
