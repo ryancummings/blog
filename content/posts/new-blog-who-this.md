@@ -2,7 +2,7 @@
 title = "new blog who this?"
 author = ["Ryan Cummings"]
 date = 2020-02-20T16:12:00-05:00
-lastmod = 2020-02-20T16:13:11-05:00
+lastmod = 2020-02-20T16:45:50-05:00
 tags = ["meta"]
 categories = ["personal"]
 draft = false
@@ -13,5 +13,8 @@ I had a blog a while ago. It died when I didn't update it and made life more com
 It was a mess! It's no wonder that I gave up.
 
 But now that I am a 4th year medical student, I figure that I'll fire it back up! I love writing and have so many things to write about, from AI and deep learning to medical education to philosophy, not to mention all of the miscelaneous programming projects I've been up to over the past few years. This blog may not see any traffic at all (and that may be for the best), but I think it'll be worth having nonetheless.
+
+At least it's fun to write with this setup. Here's my desk:
+![](/images/desk.jpg)
 
 So welcome to my new blog! Take a look around and check out my social links on the left sidebar. Don't be afraid to email me -- I love getting letters. I hope you get something out of this site!
