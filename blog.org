@@ -113,7 +113,7 @@ I took Step 2 CS back in October 2019, and (after a very stressful waiting perio
 CLOSED: [2020-02-20 Thu 16:12]
 :PROPERTIES:
 :EXPORT_FILE_NAME: new-blog-who-this
-:END:#+caption: Don't click this image -- It's not a hyperlink
+:END:
 **** History...
 I had a blog a while ago. It died when I didn't update it and made life more complicated than I had to. The blog was written using a piece of software called Emacs, which is a decades-old text editor. A plugin called ox-hugo converted my Emacs files into markdown files that another piece of software called Hugo converted into a navigable blog. Images were a monster to handle, and I ended up writing some custom code to get them from my computer to the site. The whole thing was hosted on Github and linked to a domain that I bought.
 

@@ -1,7 +1,7 @@
 +++
 title = "Projects"
 author = ["Ryan Cummings"]
-lastmod = 2020-02-20T17:07:37-05:00
+lastmod = 2020-02-20T17:09:31-05:00
 draft = false
 weight = 2002
 noauthor = true

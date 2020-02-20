@@ -1,7 +1,7 @@
 +++
 title = "Personal Statement"
 author = ["Ryan Cummings"]
-lastmod = 2020-02-20T17:07:37-05:00
+lastmod = 2020-02-20T17:09:32-05:00
 tags = ["residency"]
 categories = ["academic"]
 draft = true
