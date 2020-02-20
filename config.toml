@@ -10,7 +10,7 @@ paginate = 10
 [params]
     author = "Ryan Cummings"
     description = "At the intersection of medicine, tech, and philosophy"
-    authorimage = "/img/profile.jpg"
+    authorimage = "/img/site/profile.jpg"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
