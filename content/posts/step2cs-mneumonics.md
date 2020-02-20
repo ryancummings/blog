@@ -2,8 +2,8 @@
 title = "Step 2 CS Mneumonics"
 author = ["Ryan Cummings"]
 date = 2020-02-20T17:25:00-05:00
-lastmod = 2020-02-20T17:25:21-05:00
-tags = ["step"]
+lastmod = 2020-02-20T17:29:44-05:00
+tags = ["step", "cs"]
 categories = ["academic"]
 draft = false
 +++
