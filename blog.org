@@ -29,6 +29,18 @@ Links will live here
 :EXPORT_HUGO_SECTION: posts
 :END:
 ** Technical                                                        :@technical:
+*** DONE Flashlight reference                                  :flashlight:
+CLOSED: [2020-02-20 Thu 17:58]
+:PROPERTIES:
+:EXPORT_FILE_NAME: flashlight-reference
+:END:
+Ignore - test post for personal reference
+**** BLF A6
+- Battery check: Click until mooon mode, then long press 3 times (turbo -> strobe -> battcheck)
+**** BLF Q8
+- Battery check: 3 quick presses
+- Lockout: 4 quick presses
+- Quick turbo: 2 quick presses
 ** Academic                                                      :@academic:
 *** DONE Step 2 CS Mneumonics                                     :step:cs:
 CLOSED: [2020-02-20 Thu 17:25]
