@@ -60,8 +60,6 @@ paginate = 10
     weight = 150
     url = "/pages/links/"
 
-
-
 [[menu.main]]
     name = "Blog Posts"
     weight = 200
