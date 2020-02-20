@@ -43,6 +43,26 @@ paginate = 10
     url = "/"
 
 [[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 100
+    url = "/pages/about/"
+
+[[menu.main]]
+    name = "Projects"
+    identifier = "projects"
+    weight = 150
+    url = "/pages/projects/"
+
+[[menu.main]]
+    name = "Links"
+    identifier = "links"
+    weight = 150
+    url = "/pages/links/"
+
+
+
+[[menu.main]]
     name = "Blog Posts"
     weight = 200
     identifier = "posts"
@@ -54,17 +74,8 @@ paginate = 10
     identifier = "categories"
     url = "/categories/"
 
-# Note: Menu Pages are added from the blog org file
-
-# [[menu.main]]
-#     name = "Projects"
-#     identifier = "projects"
-#     weight = 400
-#     url = "/projects/"
-
-
-# [[menu.main]]
-#     name = "About"
-#     identifier = "about"
-#     weight = 100
-#     url = "/about/"
+[[menu.main]]
+    name = "Tags"
+    weight = 200
+    identifier = "tags"
+    url = "/tags/"

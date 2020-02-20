@@ -6,8 +6,6 @@
 
 * Pages
 :PROPERTIES:
-:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :noauthor true :nocomment true :nodate true :nopaging true :noread true
-:EXPORT_HUGO_MENU: :menu main
 :EXPORT_HUGO_SECTION: pages
 :EXPORT_HUGO_WEIGHT: auto
 :END:
@@ -21,6 +19,11 @@ About me will live here.
 :EXPORT_FILE_NAME: projects
 :END:
 Projects will live here.
+** Links
+:PROPERTIES:
+:EXPORT_FILE_NAME: links
+:END:
+Links will live here
 * Posts
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts
