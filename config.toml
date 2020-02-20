@@ -1,0 +1,51 @@
+baseURL = "https://blog.ryanwcummings.com"
+languageCode = "en-us"
+title = "RC"
+theme = "hyde-hyde"
+
+## Site Settings
+[params]
+    author = "Ryan Cummings"
+    description = "At the intersection of medicine, philosophy, and technology"
+    authorimage = "/img/profile.jpg"
+    dateformat = "Jan 2, 2006"
+
+    highlightjs = true
+    highlightjsstyle = "zenburn"
+    highlightjslanguages = ["cmake", "lisp", "elisp"]
+
+    #toc = "tocbot"
+
+[params.social]
+    github = "ryancummings"
+    facebook = "updog"
+    instagram = "muchinstamanygramwow"
+    email = "rcummings.04@gmail.com"
+
+## Main Menu
+[[menu.main]]
+    name = "Home"
+    identifier = "home"
+    weight = 50
+    url = "/"
+
+[[menu.main]]
+    name = "Blog Posts"
+    weight = 200
+    identifier = "posts"
+    url = "/posts/"
+
+# Note: Menu Pages are added from the blog org file
+
+# [[menu.main]]
+#     name = "Projects"
+#     identifier = "projects"
+#     weight = 400
+#     url = "/projects/"
+
+
+# [[menu.main]]
+#     name = "About"
+#     identifier = "about"
+#     weight = 100
+#     url = "/about/"
