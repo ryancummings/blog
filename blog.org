@@ -27,8 +27,7 @@ Projects will live here.
 :END:
 ** Technical                                                        :@technical:
 ** Academic                                                      :@academic:
-*** DONE Personal Statement                                     :residency:
-CLOSED: [2020-02-20 Thu 15:25]
+*** TODO Personal Statement                                     :residency:
 :PROPERTIES:
 :EXPORT_FILE_NAME: personal-statement
 :END:

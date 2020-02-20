@@ -1,11 +1,10 @@
 +++
 title = "Personal Statement"
 author = ["Ryan Cummings"]
-date = 2020-02-20T15:25:00-05:00
-lastmod = 2020-02-20T15:36:32-05:00
+lastmod = 2020-02-20T16:04:46-05:00
 tags = ["residency"]
 categories = ["academic"]
-draft = false
+draft = true
 +++
 
 I found my patient lying restlessly in bed as the sun was rising. Admitted in the late afternoon for vague chest pain and syncope, her last 12 hours were a roller coaster. We first ruled out a heart attack, but my patient's relief was followed by terror when we told her about a large mass our radiologist saw on her chest CT. A biopsy would shortly be arranged. "What do you think this thing in my chest is?", she asked me. Having just started my first medicine rotation, I didn't know what to say. Then, during our morning rounds, the overnight radiologist came to our floor. With some urgency, she walked us through the subtle radiographic signs suggesting that the mass, which she originally thought was a soft-tissue tumor, could really be a hematoma surrounding a ruptured thoracic aortic aneurysm. The stakes were high: if the mass were a hematoma, biopsy could be disastrous, and without treatment the patient could deteriorate rapidly. A consensus was reached, and the patient was prepped for surgery.
