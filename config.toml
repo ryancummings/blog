@@ -14,7 +14,7 @@ theme = "hyde-hyde"
     highlightjsstyle = "zenburn"
     highlightjslanguages = ["cmake", "lisp", "elisp"]
 
-    #toc = "tocbot"
+    toc = "tocbot"
 
 [params.social]
     github = "ryancummings"
