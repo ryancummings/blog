@@ -2,7 +2,8 @@ baseURL = "https://blog.ryanwcummings.com/"
 languageCode = "en-us"
 title = "RC"
 theme = "hyde-hyde"
-
+googleAnalytics = "UA-124665888-1"
+ 
 ## Site Settings
 [params]
     author = "Ryan Cummings"
