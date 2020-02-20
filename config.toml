@@ -9,7 +9,7 @@ paginate = 10
 ## Site Settings
 [params]
     author = "Ryan Cummings"
-    description = "At the intersection of medicine, philosophy, and technology"
+    description = "At the intersection of medicine, tech, and philosophy"
     authorimage = "/img/profile.jpg"
     dateformat = "Jan 2, 2006"
 
