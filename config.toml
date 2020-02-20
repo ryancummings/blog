@@ -6,9 +6,6 @@ googleAnalytics = "UA-124665888-1"
 builddrafts = false
 paginate = 10
 
-[indexes]
-    # Optional. Use if you want tags and lists.
-    category = "categories"
 ## Site Settings
 [params]
     author = "Ryan Cummings"
@@ -40,6 +37,12 @@ paginate = 10
     weight = 200
     identifier = "posts"
     url = "/posts/"
+
+[[menu.main]]
+    name = "Categories"
+    weight = 200
+    identifier = "categories"
+    url = "/categories/"
 
 # Note: Menu Pages are added from the blog org file
 
