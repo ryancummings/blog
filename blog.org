@@ -41,12 +41,11 @@ Diagnostic radiology suits me perfectly. The pace of work is ideal — brisk wit
 As a lifelong technophile, I am also excited to work in a field driven briskly forward by technology. I have been programming computers for more than 15 years, honing skills in fields as diverse as web development and machine learning. I recently designed and programmed a new surgical skills teaching tool, and my home server is slowly training a neural network to identify pneumonia on chest x-rays. As machine learning becomes more integrated with diagnostic radiology, a technical understanding of the operation, advantages, and limitations of deep machine learning may become as important to radiologists as an understanding of physics. With a firm background in computing, I am eager to contribute to the application of machine learning to diagnostic radiology.
 
 I was a third-year medical student when I saw the difference a radiologist can make in a patient's life. On a radiologist's call, our patient with chest pain and syncope lived to have a successful aortic aneurysm repair. While I am passionate about radiology for more reasons than I can possibly list, I am most excited to be a part of those key moments when a radiologist can make a difference.
-*** DONE Step 2 CS Mneumonics                                        :step:
-CLOSED: [2020-02-20 Thu 15:29]
+*** TODO Step 2 CS Mneumonics                                        :step:
 :PROPERTIES:
 :EXPORT_FILE_NAME: step2cs-mneumonics
 :END:
-I took Step 2 CS back in October 2019, and (after a very stressful waiting period) found out that I passed with flying colors. The mneumonics below were the best I could find, and memorizing them a few nights before the exam saved me.
+I took Step 2 CS back in October 2019, and (after a very stressful waiting period) found out that I passed with flying colors. The mneumonics below were the best I could find, and memorizing them a few nights before the exam saved me. I had one for peds cases too, but I lost it.
 **** Social: TAIMODES:
 
 - Tobacco
@@ -88,7 +87,6 @@ I took Step 2 CS back in October 2019, and (after a very stressful waiting perio
 - Pap smear
 
 **** ROS Hitlist
-
 - Nausea
 - Vomiting
 - Fever

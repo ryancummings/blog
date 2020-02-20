@@ -1,14 +1,13 @@
 +++
 title = "Step 2 CS Mneumonics"
 author = ["Ryan Cummings"]
-date = 2020-02-20T15:29:00-05:00
-lastmod = 2020-02-20T17:13:13-05:00
+lastmod = 2020-02-20T17:23:21-05:00
 tags = ["step"]
 categories = ["academic"]
-draft = false
+draft = true
 +++
 
-I took Step 2 CS back in October 2019, and (after a very stressful waiting period) found out that I passed with flying colors. The mneumonics below were the best I could find, and memorizing them a few nights before the exam saved me.
+I took Step 2 CS back in October 2019, and (after a very stressful waiting period) found out that I passed with flying colors. The mneumonics below were the best I could find, and memorizing them a few nights before the exam saved me. I had one for peds cases too, but I lost it.
 
 
 ## Social: TAIMODES: {#social-taimodes}
