@@ -1,4 +1,4 @@
-baseURL = "https://blog.ryanwcummings.com"
+baseURL = "https://blog.ryanwcummings.com/"
 languageCode = "en-us"
 title = "RC"
 theme = "hyde-hyde"
