@@ -13,6 +13,12 @@ paginate = 10
     authorimage = "/img/profile.jpg"
     dateformat = "Jan 2, 2006"
 
+    # sidebar, copyright & license
+    copyright = "Ryan Cummings"
+    license = "CC BY-SA 4.0"
+    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = true
+
     highlightjs = true
     highlightjsstyle = "zenburn"
     highlightjslanguages = ["cmake", "lisp", "elisp"]
