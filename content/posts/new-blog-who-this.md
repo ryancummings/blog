@@ -2,7 +2,7 @@
 title = "new blog who this?"
 author = ["Ryan Cummings"]
 date = 2020-02-20T16:12:00-05:00
-lastmod = 2020-02-20T22:50:25-05:00
+lastmod = 2020-02-20T22:56:22-05:00
 tags = ["meta"]
 categories = ["personal"]
 draft = false
@@ -23,5 +23,7 @@ At least it's fun to write with this setup. Here's my desk:
 
 ![](/img/misc/desk.jpg)
 (Yay, images work!)
+
+{{< figure src="/img/screenshots/20200220_225607_test-delay.png" >}}
 
 So welcome to my new blog! Take a look around and check out my social links on the left sidebar. Don't be afraid to email me (the @ link on the sidebar) -- I love getting letters. I hope you get something out of this site.
