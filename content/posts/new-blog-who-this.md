@@ -2,7 +2,7 @@
 title = "new blog who this?"
 author = ["Ryan Cummings"]
 date = 2020-02-20T16:12:00-05:00
-lastmod = 2020-02-20T17:46:55-05:00
+lastmod = 2020-02-20T21:52:44-05:00
 tags = ["meta"]
 categories = ["personal"]
 draft = false
