@@ -24,7 +24,7 @@ paginate = 10
     enableEmoji = true
 
     highlightjs = true
-    highlightjsstyle = "zenburn"
+    highlightjsstyle = "googlecode"
     highlightjslanguages = ["cmake", "lisp", "elisp", "emacs-lisp"]
 
     #toc = "tocbot"
