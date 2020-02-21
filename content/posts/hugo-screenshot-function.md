@@ -2,7 +2,7 @@
 title = "my-hugo-screenshot: a simple custom Emacs function"
 author = ["Ryan Cummings"]
 date = 2020-02-21T09:40:00-05:00
-lastmod = 2020-02-21T09:44:26-05:00
+lastmod = 2020-02-21T13:02:27-05:00
 tags = ["emacs", "meta"]
 categories = ["technical"]
 draft = false
@@ -55,6 +55,6 @@ And that's it! The screenshot is saved in the blog's static screenshots folder a
 
 {{< figure src="/img/screenshots/20200221_093645_sample_screenshot.png" >}}
 
-Let's see WordPress beat that.
+Let's see WordPress beat that!
 
 Emacs is an incredible piece of software and it makes writing this blog a pleasure. I hope this little example is helpful to someone thinking about trying Emacs or writing basic functions and extensions for it. Learning Emacs can be a long road, but for so many reasons, I can't imagine my life without this software, and that is a unique thing.

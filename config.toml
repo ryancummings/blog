@@ -25,7 +25,7 @@ paginate = 10
 
     highlightjs = true
     highlightjsstyle = "zenburn"
-    highlightjslanguages = ["cmake", "lisp", "elisp"]
+    highlightjslanguages = ["cmake", "lisp", "elisp", "emacs-lisp"]
 
     #toc = "tocbot"
     mainSections = "posts"
