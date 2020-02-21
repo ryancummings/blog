@@ -54,14 +54,14 @@ There are a lot of different ways to write a blog. Platforms like WordPress and 
 In this post, I'll walk through a function I just wrote to instantly add screenshots to posts. That's one beautiful thing about Emacs -- you can literally program your text editor on-the-fly. I realized that adding screenshots was taking up too much time, so I spent 10 minutes writing a function that made it better. How awesome is that?
 
 **** TLDR: The function
-#+begin_src emacs-lisp :tangle ye
+#+begin_src lisp
 (defun my-hugo-screenshot (name)
-  "Take a screenshot into a time stamped unique-named file in the hugo screenshots dir and links to it"
+  "Take a screenshot into a time stamped unique-named file with suffix NAME and paste link at point."
   (interactive "sEnter a screenshot name: ")
-  (setq imagename (concat (format-time-string "%Y%m%d_%H%M%S") "_" name ".png"))
-  (setq filename
-          (concat "~/org/blog/static/img/screenshots/"
-                  imagename))
+  (setq imagename (concat (format-time-string "%Y%m%d_%H%M%S")
+                          "_" name ".png"))
+  (setq filename (concat "~/org/blog/static/img/screenshots/"
+                         imagename))
   (setq filelink (concat "/img/screenshots/" imagename))
   (message "waiting 5 seconds while you open the right window")
   (sit-for 5)
@@ -76,7 +76,7 @@ I won't sugar-coat it. This is an ugly function. Lines are poorly wrapped, too m
 For the uninitiated, Emacs is written in a variant of the Lisp programming language called elisp. Lisp is a beautiful but rarely-used language characterized by all of those parentheses. The language is worth exploring if you have some free time. I believe that every programmer should learn 3 different languages, no matter what their goals are, and learning Lisp will absolutely teach you something about computer science. That said, I have barely scratched the surface, hence the horribly messy function.
 
 On my Linux machine, the command "import" calls an ImageMagick utility that lets you either define a boundary to screenshot, or click on a window to screenshot. The following code tells Emacs to run the command in the shell:
-#+begin_src emacs-lisp :tangle yes
+#+begin_src lisp
 (shell-command (concat "import " filename))
 #+end_src
 The ~filename~ variable is generated pragmatically based on the user's input when the function is first called (using the ~interactive~ prompt), and the date and time. The link to the screenshot file needs to be relative to the blog file's directory, hence the extra code generating ~filelink~. And the ~global-set-key~ function at the end links the function with the unused key shortcut Ctrl-c s. The whole function lives in my Emacs init file, which loads every time Emacs opens. A detailed explanation of my /init/ is a job for another day.
@@ -85,7 +85,7 @@ And that's it! The screenshot is saved in the blog's static screenshots folder a
 
 [[/img/screenshots/20200221_093645_sample_screenshot.png]]
 
-Let's see WordPress beat that!
+Let's see WordPress beat that.
 
 Emacs is an incredible piece of software and it makes writing this blog a pleasure. I hope this little example is helpful to someone thinking about trying Emacs or writing basic functions and extensions for it. Learning Emacs can be a long road, but for so many reasons, I can't imagine my life without this software, and that is a unique thing.
 
@@ -177,3 +177,6 @@ At least it's fun to write with this setup. Here's my desk:
 (Yay, images work!)
 
 So welcome to my new blog! Take a look around and check out my social links on the left sidebar. Don't be afraid to email me (the @ link on the sidebar) -- I love getting letters. I hope you get something out of this site.
+** Outdoors                                                      :@outdoors:
+** Ideas
+*** How to change the width of hyde-hyde posts

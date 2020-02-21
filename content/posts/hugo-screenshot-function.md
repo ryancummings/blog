@@ -2,7 +2,7 @@
 title = "my-hugo-screenshot: a simple custom Emacs function"
 author = ["Ryan Cummings"]
 date = 2020-02-21T09:40:00-05:00
-lastmod = 2020-02-21T13:02:27-05:00
+lastmod = 2020-02-21T13:44:51-05:00
 tags = ["emacs", "meta"]
 categories = ["technical"]
 draft = false
@@ -19,14 +19,14 @@ In this post, I'll walk through a function I just wrote to instantly add screens
 
 ## TLDR: The function {#tldr-the-function}
 
-```emacs-lisp
+```lisp
 (defun my-hugo-screenshot (name)
-  "Take a screenshot into a time stamped unique-named file in the hugo screenshots dir and links to it"
+  "Take a screenshot into a time stamped unique-named file with suffix NAME and paste link at point."
   (interactive "sEnter a screenshot name: ")
-  (setq imagename (concat (format-time-string "%Y%m%d_%H%M%S") "_" name ".png"))
-  (setq filename
-          (concat "~/org/blog/static/img/screenshots/"
-                  imagename))
+  (setq imagename (concat (format-time-string "%Y%m%d_%H%M%S")
+                          "_" name ".png"))
+  (setq filename (concat "~/org/blog/static/img/screenshots/"
+                         imagename))
   (setq filelink (concat "/img/screenshots/" imagename))
   (message "waiting 5 seconds while you open the right window")
   (sit-for 5)
@@ -45,7 +45,7 @@ For the uninitiated, Emacs is written in a variant of the Lisp programming langu
 
 On my Linux machine, the command "import" calls an ImageMagick utility that lets you either define a boundary to screenshot, or click on a window to screenshot. The following code tells Emacs to run the command in the shell:
 
-```emacs-lisp
+```lisp
 (shell-command (concat "import " filename))
 ```
 
@@ -55,6 +55,6 @@ And that's it! The screenshot is saved in the blog's static screenshots folder a
 
 {{< figure src="/img/screenshots/20200221_093645_sample_screenshot.png" >}}
 
-Let's see WordPress beat that!
+Let's see WordPress beat that.
 
 Emacs is an incredible piece of software and it makes writing this blog a pleasure. I hope this little example is helpful to someone thinking about trying Emacs or writing basic functions and extensions for it. Learning Emacs can be a long road, but for so many reasons, I can't imagine my life without this software, and that is a unique thing.

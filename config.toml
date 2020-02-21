@@ -24,7 +24,7 @@ paginate = 10
     enableEmoji = true
 
     highlightjs = true
-    highlightjsstyle = "googlecode"
+    highlightjsstyle = "atom-one-light"
     highlightjslanguages = ["cmake", "lisp", "elisp", "emacs-lisp"]
 
     #toc = "tocbot"
