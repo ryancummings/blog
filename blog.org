@@ -29,18 +29,6 @@ Links will live here
 :EXPORT_HUGO_SECTION: posts
 :END:
 ** Technical                                                        :@technical:
-*** DONE Flashlight reference                                  :flashlight:
-CLOSED: [2020-02-20 Thu 17:58]
-:PROPERTIES:
-:EXPORT_FILE_NAME: flashlight-reference
-:END:
-**** Ignore - test post for personal reference
-**** BLF A6
-- Battery check: Click until mooon mode, then long press 3 times (turbo -> strobe -> battcheck)
-**** BLF Q8
-- Battery check: 3 quick presses
-- Lockout: 4 quick presses
-- Quick turbo: 2 quick presses
 *** DONE my-hugo-screenshot: a simple custom Emacs function    :emacs:meta:
 CLOSED: [2020-02-21 Fri 09:40]
 :PROPERTIES:
