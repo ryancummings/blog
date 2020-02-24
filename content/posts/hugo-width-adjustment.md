@@ -2,7 +2,8 @@
 title = "Hugo theming basics: how to change the width of a page"
 author = ["Ryan Cummings"]
 date = 2020-02-24T12:34:00-05:00
-lastmod = 2020-02-24T12:50:07-05:00
+lastmod = 2020-02-24T12:50:55-05:00
+tags = ["meta", "hugo"]
 categories = ["technical"]
 draft = false
 +++

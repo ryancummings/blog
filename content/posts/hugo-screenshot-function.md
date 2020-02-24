@@ -2,8 +2,8 @@
 title = "my-hugo-screenshot: a simple custom Emacs function"
 author = ["Ryan Cummings"]
 date = 2020-02-21T09:40:00-05:00
-lastmod = 2020-02-21T15:59:34-05:00
-tags = ["emacs", "meta"]
+lastmod = 2020-02-24T12:51:10-05:00
+tags = ["emacs", "meta", "hugo"]
 categories = ["technical"]
 draft = false
 +++

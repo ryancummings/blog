@@ -29,7 +29,7 @@ Links will live here
 :EXPORT_HUGO_SECTION: posts
 :END:
 ** Technical                                                        :@technical:
-*** DONE my-hugo-screenshot: a simple custom Emacs function    :emacs:meta:
+*** DONE my-hugo-screenshot: a simple custom Emacs function :emacs:meta:hugo:
 CLOSED: [2020-02-21 Fri 09:40]
 :PROPERTIES:
 :EXPORT_FILE_NAME: hugo-screenshot-function
@@ -76,7 +76,7 @@ And that's it! The screenshot is saved in the blog's static screenshots folder a
 Let's see WordPress beat that.
 
 Emacs is an incredible piece of software and it makes writing this blog a pleasure. I hope this little example is helpful to someone thinking about trying Emacs or writing basic functions and extensions for it. Learning Emacs can be a long road, but for so many reasons, I can't imagine my life without this software, and that is a unique thing.
-*** DONE Hugo theming basics: how to change the width of a page
+*** DONE Hugo theming basics: how to change the width of a page :meta:hugo:
 CLOSED: [2020-02-24 Mon 12:34]
 :PROPERTIES:
 :EXPORT_FILE_NAME: hugo-width-adjustment
