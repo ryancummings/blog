@@ -1,8 +1,8 @@
 +++
-title = "Hugo theming basics: how to change the width of a poge"
+title = "Hugo theming basics: how to change the width of a page"
 author = ["Ryan Cummings"]
 date = 2020-02-24T12:34:00-05:00
-lastmod = 2020-02-24T12:34:42-05:00
+lastmod = 2020-02-24T12:38:44-05:00
 categories = ["technical"]
 draft = false
 +++
