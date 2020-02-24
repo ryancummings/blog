@@ -96,7 +96,7 @@ The following steps are for the Hyde-Hyde theme specifically, but should apply j
 ***** 1) Fork the theme repo
 This was a critical step for a newbie to Git like me. The general Git structure of a Hugo blog is a master repository for the blog content, with a submodule that holds the theme. Most Hugo themes have installation instructions for installing them as submodules. If you plan to make any changes to the blog, you have to *fork* the theme *first* before you install it as a submodule. Basically, forking the theme lets you make and commit changes to your own personal copy of the theme, without messing up the original theme you copied from.
 ***** 2) Add the forked repo as a submodule
-Adding a repo as a submodule is as simple as navigating to your blog's base directory and running the following:
+Adding a repo as a submodule is as simple as navigating to your blog's themes directory and running the following:
 
 #+BEGIN_SRC bash
 git submodule add *https-route-to-your-forked-repo*

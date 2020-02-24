@@ -2,7 +2,7 @@
 title = "Hugo theming basics: how to change the width of a page"
 author = ["Ryan Cummings"]
 date = 2020-02-24T12:34:00-05:00
-lastmod = 2020-02-24T12:40:33-05:00
+lastmod = 2020-02-24T12:50:07-05:00
 categories = ["technical"]
 draft = false
 +++
@@ -32,7 +32,7 @@ This was a critical step for a newbie to Git like me. The general Git structure 
 
 ### 2) Add the forked repo as a submodule {#2-add-the-forked-repo-as-a-submodule}
 
-Adding a repo as a submodule is as simple as navigating to your blog's base directory and running the following:
+Adding a repo as a submodule is as simple as navigating to your blog's themes directory and running the following:
 
 ```bash
 git submodule add *https-route-to-your-forked-repo*
