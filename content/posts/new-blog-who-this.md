@@ -2,7 +2,7 @@
 title = "new blog who this?"
 author = ["Ryan Cummings"]
 date = 2020-02-20T16:12:00-05:00
-lastmod = 2020-02-20T22:57:45-05:00
+lastmod = 2020-02-24T12:34:03-05:00
 tags = ["meta"]
 categories = ["personal"]
 draft = false
@@ -10,7 +10,7 @@ draft = false
 
 ## History... {#history-dot-dot-dot}
 
-I had a blog a while ago. It died when I didn't update it and made life more complicated than I had to. The blog was written using a piece of software called Emacs, which is a decades-old text editor. A plugin called ox-hugo converted my Emacs files into markdown files that another piece of software called Hugo converted into a navigable blog. Images were a monster to handle, and I ended up writing some custom code to get them from my computer to the site. The whole thing was hosted on Github and linked to a domain that I bought.
+I had a blog a while ago. It died when I didn't update it and made life more complicated than I had to. The blog was written using a piece of software called Emacs, which is a decades-old text editor. A plugin called ox-hugo converted my Emacs files into markdown files that another piece of software called Hugo converted into a navigable blog. Images were a monster to handle, and I ended up writing some custom code to get them from my computer to the site. The whole thing was hosted on GitHub and linked to a domain that I bought.
 
 It was a mess! It's no wonder that I gave up.
 

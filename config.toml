@@ -25,7 +25,7 @@ paginate = 10
 
     highlightjs = true
     highlightjsstyle = "atom-one-light"
-    highlightjslanguages = ["cmake", "lisp", "elisp", "emacs-lisp"]
+    highlightjslanguages = ["cmake", "lisp", "elisp", "emacs-lisp", "bash"]
 
     #toc = "tocbot"
     mainSections = "posts"
