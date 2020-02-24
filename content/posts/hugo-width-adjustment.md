@@ -2,7 +2,7 @@
 title = "Hugo theming basics: how to change the width of a page"
 author = ["Ryan Cummings"]
 date = 2020-02-24T12:34:00-05:00
-lastmod = 2020-02-24T12:38:44-05:00
+lastmod = 2020-02-24T12:40:33-05:00
 categories = ["technical"]
 draft = false
 +++
@@ -60,7 +60,9 @@ The instructions are from a post on GitHub [here](https://gist.github.com/myusuf
 ### 3) Find the variable of interest {#3-find-the-variable-of-interest}
 
 It took me a lot of trial and error to figure out what variable was controlling the width of my content, but I eventually tracked it down to the following:
+
 File: `themes/hyde-hyde/assets/scss/hyde-hyde/_variables.scss`
+
 Variable: `$content-max-width: 32rem`
 
 Changing this to something like `60rem` was all it took. When I pushed the change to GitHub and the page reloaded, the width was fixed.
