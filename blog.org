@@ -76,6 +76,11 @@ And that's it! The screenshot is saved in the blog's static screenshots folder a
 Let's see WordPress beat that.
 
 Emacs is an incredible piece of software and it makes writing this blog a pleasure. I hope this little example is helpful to someone thinking about trying Emacs or writing basic functions and extensions for it. Learning Emacs can be a long road, but for so many reasons, I can't imagine my life without this software, and that is a unique thing.
+*** TODO Hugo theming basics: how to change the width of a poge
+**** Introduction
+When I first started writing this blog, I opted for a theme called [[https://themes.gohugo.io/hyde-hyde/][hyde-hyde]], based on the Hyde theme for Jekyll. The theme is lovely, with a great two-column interface and the ability to rearrange itself when displayed on mobile devices. However, from the very beginning, I was annoyed that content was rendering very narrow, rather than expanding to fill the width of the page. Here's a screenshot of how it used to look.
+
+
 
 ** Academic                                                      :@academic:
 *** DONE Step 2 CS Mneumonics                                     :step:cs:
