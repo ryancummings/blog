@@ -89,7 +89,7 @@ When I first started writing this blog, I opted for a theme called [[https://the
 And here it is now:
 
 [[/img/screenshots/20200224_120945_content-regular-width.png]]
-
+[[/img/screenshots/20200226_152127_deleteme.png][file:/img/screenshots/20200226_152127_deleteme.png]]
 How did I accomplish this? Read on, dear reader.
 **** The Steps
 The following steps are for the Hyde-Hyde theme specifically, but should apply just as well to any theme.

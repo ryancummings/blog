@@ -2,7 +2,7 @@
 title = "Hugo theming basics: how to change the width of a page"
 author = ["Ryan Cummings"]
 date = 2020-02-24T12:34:00-05:00
-lastmod = 2020-02-24T12:50:55-05:00
+lastmod = 2020-02-26T15:21:37-05:00
 tags = ["meta", "hugo"]
 categories = ["technical"]
 draft = false
@@ -16,8 +16,8 @@ When I first started writing this blog, I opted for a theme called [hyde-hyde](h
 
 And here it is now:
 
-{{< figure src="/img/screenshots/20200224_120945_content-regular-width.png" >}}
-
+![](/img/screenshots/20200224_120945_content-regular-width.png)
+[![](/img/screenshots/20200226_152127_deleteme.png)](/img/screenshots/20200226_152127_deleteme.png)
 How did I accomplish this? Read on, dear reader.
 
 
