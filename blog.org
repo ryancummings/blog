@@ -13,6 +13,7 @@
 :PROPERTIES:
 :EXPORT_FILE_NAME: about
 :END:
+#+attr_html: :width 300
 [[file:static/img/site/profile.jpg][file:/img/site/profile.jpg]]
 
 ** Projects
