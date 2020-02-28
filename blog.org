@@ -24,6 +24,8 @@ Over the course of this blog, I'll be writing technical guides relevant to Emacs
 
 So read an article and enjoy!
 
+[[/img/screenshots/20200227_220235_deleteme.png][file:/img/screenshots/20200227_220235_deleteme.png]]
+
 -- Ryan
 
 ** Projects
