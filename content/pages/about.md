@@ -1,7 +1,7 @@
 +++
 title = "About"
 author = ["Ryan Cummings"]
-lastmod = 2020-02-26T18:33:04-05:00
+lastmod = 2020-02-27T22:01:59-05:00
 draft = false
 weight = 2001
 +++
@@ -17,6 +17,6 @@ This blog is unique because it lives in a plain-text file on my computer. The fi
 
 Over the course of this blog, I'll be writing technical guides relevant to Emacs, AI, web development, and anything else I have figured out and want to remember or share. I'll also be writing about medical training, philosophy, cycling, my dog, or any of my other million hobbies. With my goldfish memory, it pays for me to keep tabs on what I'm doing and what I'm thinking about, and this blog will be part of that process. I wouldn't be surprised if it ends up scatter-brained, considering the source material.
 
-So read an article or two, and enjoy!
+So read an article and enjoy!
 
 -- Ryan
