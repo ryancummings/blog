@@ -1,8 +1,8 @@
 +++
-title = "Jupyter notebooks over SSH"
+title = "Jupyter notebooks over SSH for remote deep learning on a GPU"
 author = ["Ryan Cummings"]
 date = 2020-02-28T20:09:00-05:00
-lastmod = 2020-02-28T21:09:01-05:00
+lastmod = 2020-02-28T21:10:00-05:00
 tags = ["python", "ai"]
 categories = ["technical"]
 draft = false
