@@ -171,7 +171,7 @@ ssh -o StrictHostKeyChecking=no gamer "source ~/anaconda3/etc/profile.d/conda.sh
 urxvt -e sh -c "ssh -N -L localhost:8888:localhost:8887 USERNAME@gamer"
 #+END_SRC
 
-This very simple script does two things. The first command logs into my gaming pc via SSH using the "gamer" profile I set up earlier in my ~\~/.ssh/config~ file. It then activates my Anaconda virtual python environment, which is necessary to run the jupyter notebook. Lastly, it runs ~jupyter notebook~ on port 8887 with no browser.
+This very simple script does two things. The first command logs into my gaming pc via SSH using the "gamer" profile I set up earlier in my ~.ssh/config~ file. It then activates my Anaconda virtual python environment, which is necessary to run the jupyter notebook. Lastly, it runs ~jupyter notebook~ on port 8887 with no browser.
 
 The second command (which opens without waiting for the first to finish, because of the ~&~ symbol) opens a new urxvt terminal window and opens a tunnel to my gaming pc. The tunnel links my laptop's port 8888 with the gaming pc's port 8887, where the jupyter notebook is running. The terminal will look blank, but the port should be ready.
 
