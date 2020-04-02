@@ -1,8 +1,8 @@
 +++
-title = "Making a basic Reddit market scraper with Python"
+title = "Reddit marketplace notifications withg Python and PRAW"
 author = ["Ryan Cummings"]
 date = 2020-03-31T17:51:00-04:00
-lastmod = 2020-03-31T17:51:07-04:00
+lastmod = 2020-04-02T09:20:04-04:00
 tags = ["python"]
 categories = ["technical"]
 draft = false

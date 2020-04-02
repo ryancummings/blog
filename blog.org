@@ -184,7 +184,7 @@ The second command (which opens without waiting for the first to finish, because
 Now, all you have to do is click the url provided in the first terminal window where the jupyter notebook is running. A web browser window will open pointing to localhost:8887/LONG_TOKEN_TEXT. Change the 7 to an 8 and you will login to the notebook with the token in the long URL. And that's it! Any code you run will run on the remote notebook server, and you can use the GPU to your heart's content.
 
 It took me a little while to figure this out. I hope it helps out another data scientist in need!
-*** DONE Making a basic Reddit market scraper with Python          :python:
+*** DONE Reddit marketplace notifications withg Python and PRAW    :python:
 CLOSED: [2020-03-31 Tue 17:51]
 :PROPERTIES:
 :EXPORT_FILE_NAME: reddit_scraper_v1
