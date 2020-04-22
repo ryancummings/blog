@@ -1,8 +1,8 @@
 +++
-title = "Reddit marketplace notifications withg Python and PRAW"
+title = "Reddit marketplace notifications with Python and PRAW"
 author = ["Ryan Cummings"]
 date = 2020-03-31T17:51:00-04:00
-lastmod = 2020-04-02T09:20:04-04:00
+lastmod = 2020-04-22T17:53:44-04:00
 tags = ["python"]
 categories = ["technical"]
 draft = false
