@@ -38,6 +38,7 @@ So read an article or two and enjoy!
 :EXPORT_FILE_NAME: projects
 :END:
 As I push new websites to my domain, I'll update them here.
+- [[http://simplesearch.ryanwcummings.com][Simple Reddit Search]]: A practice deployment that lets you search the 100 most recent posts in any subreddit. This is great for finding hobby things to buy e.g. fountain pens/mechanical keyboards.
 ** Links
 :PROPERTIES:
 :EXPORT_FILE_NAME: links
