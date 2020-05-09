@@ -455,6 +455,34 @@ At least it's fun to write with this setup. Here's my desk:
 (Yay, images work!)
 
 So welcome to my new blog! Take a look around and check out my social links on the left sidebar. Don't be afraid to email me (the @ link on the sidebar) -- I love getting letters. I hope you get something out of this site.
+*** DONE Where am I?
+CLOSED: [2020-05-08 Fri 21:18]
+:PROPERTIES:
+:EXPORT_FILE_NAME: where-am-i
+:END:
+It's been a while since my last update, but I'm fine! For historical context, Coronavirus has pretty much swept the US at this point, and NYC has been in lockdown since March. Cases and deaths are down, and there is talk that a gradual return to normal will begin in a week, but I am not so sure we'll see it. 
+
+What have I been doing with all of this time? A few things:
+- Finally read [[https://www.amazon.com/G%C3%B6del-Escher-Bach-Eternal-Golden/dp/0465026567][Gödel, Escher, Bach: An Eternal Golden Braid]] by Douglas Hofstadter, an incredible book exploring recursion, ideal for the more left-brained
+- Brush up on [[https://www.djangoproject.com/][Django 3]], a python-based web framework
+- Learn to use the [[http://www.celeryproject.org/][Celery]] scheduler and [[https://www.rabbitmq.com/][RabbitMQ]] message broker in sync with Django to handle background processes for Django sites
+- Hammered through [[https://javascript30.com/][Javascript 30]], a free vanilla Javascript course composed of 30 small projects
+- Deployed two tiny projects:
+  - [[http://app.ryanwcummings.com/simplesearch/][SimpleSearch]], a quick way to search a Reddit subreddit for recent posts
+  - [[http://app.ryanwcummings.com/sudoku/][Sudoku Solver]], which does what it sounds like, written primarily in javascript
+- Brief aside with [[http://www.phaser.io][Phaser 3]], a JS game engine for web browsers, and Node.JS, a faster asynchronous (and ubiquitous) tool often used as an asynchronous web server.
+- Last but not least, [[https://www.django-rest-framework.org/][the Django REST Framework]], which lets you quickly create web APIs. Next up is [[https://vuejs.org/][Vue.js]], a javascript framework to make webapps. With these under my belt, it should be easy to design web services and websites/apps to access them. 
+
+My deep learning research elective was a huge success -- I achieved 90% accuracy training a neural network to identify TB on CXR. See some heatmaps below:
+
+[[/img/misc/CHNCXR_0329_1_heatmap.png][file:/img/misc/CHNCXR_0329_1_heatmap.png]]
+
+[[/img/misc/CHNCXR_0331_1_heatmap.png][file:/img/misc/CHNCXR_0331_1_heatmap.png]]
+
+I may end up deploying this with Django. The results are good (not great, but good), so it may be worth it. 
+
+I guess this post turned into more of a diary, but it's always good to get some thoughts out there. Hopefully this is useful to at least one person looking for something to do. For now I'll keep stumbling down the path, hoping I end up somewhere interesting. 
+
 ** Outdoors                                                      :@outdoors:
 ** Ideas
 *** Syncthing overview
