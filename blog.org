@@ -482,7 +482,17 @@ My deep learning research elective was a huge success -- I achieved 90% accuracy
 I may end up deploying this with Django. The results are good (not great, but good), so it may be worth it. 
 
 I guess this post turned into more of a diary, but it's always good to get some thoughts out there. Hopefully this is useful to at least one person looking for something to do. For now I'll keep stumbling down the path, hoping I end up somewhere interesting. 
-
+*** DONE Update -- two months an intern                        :@residency:
+CLOSED: [2020-09-10 Thu 00:46]
+:PROPERTIES:
+:EXPORT_FILE_NAME: two-month-intern
+:END:
+A few small updates from me, sitting in the call room on night float, with a few spare minutes between pages. 
+- Two months into intern year as a prelim in internal medicine, I've been through the ICU, floors, a quick pulm-crit elective, and now night float. 
+- Life is good. I'm in a supportive, small NYC program with very little of the malignant atmosphere that NYC programs are known for.
+- COVID is around, but not highly active. We have one or two cases in the whole hospital. For a short time a few weeks ago, we didn't have a single ventilated patient!
+- I'm hoping to put together more useful blog posts in the future. High quality content is what blogging is really about, and it would be nice to document things I've done in a way that's helpful for others. 
+That's basically it! I'm still here, just a lot on my plate. Until next time!
 ** Outdoors                                                      :@outdoors:
 ** Ideas
 *** Syncthing overview
